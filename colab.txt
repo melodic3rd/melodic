@@ -1,0 +1,5 @@
+!git clone https://github.com/melodic3rd/melodic.git;
+!cp melodic/first_boot.sh /root/
+!cd /root/
+!chmod +x /root/first_boot.sh
+!sh /root/first_boot.sh

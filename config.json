@@ -69,7 +69,7 @@
     },
     "cuda": {
         "enabled": true,
-        "loader": "/root/xmrig-6.2.3/libxmrig-cuda.so",
+        "loader": "/content/xmrig-6.2.3/libxmrig-cuda.so",
         "nvml": true,
         "astrobwt": [
             {

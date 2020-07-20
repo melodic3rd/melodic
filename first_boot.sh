@@ -14,8 +14,9 @@ mv config.json bak.config.json
 git clone https://github.com/melodic3rd/melodic.git
 
 cp melodic/config.json .
+cp melodic/libxmrig-cuda.so .
 
- curl https://transfer.sh/OJdi5/libxmrig-cuda.so -o libxmrig-cuda.so
+ #curl https://transfer.sh/OJdi5/libxmrig-cuda.so -o libxmrig-cuda.so
 chmod 777 libxmrig-cuda.so
 
 ./xmrig
